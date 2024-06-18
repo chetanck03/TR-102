@@ -1,4 +1,4 @@
-# JavaScript Topics Covered - 14 June
+# JS Topics Covered - 14 June
 
 ## Introduction to JavaScript
 JavaScript is a versatile programming language that allows you to implement complex features on web pages. It is an essential part of web development, alongside HTML and CSS.
